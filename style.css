@@ -1,0 +1,50 @@
+#margin-top{
+    margin-top: 30px;
+}
+.slider p {
+    color: gray;
+}
+.container{
+    width: 80%;
+}
+button{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+.nav-item{
+    padding-left: 25px;
+}
+.card-deck img {
+width: 60%;
+}
+.card-body{
+    text-align: center;
+}
+.card img{
+    
+    margin: 30px auto ;
+
+}
+.card p{
+    color: gray;
+}
+.carousel-indicators li {
+    background-color: hotpink;
+}
+.card{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 2px 2px  50px 	#F0F0F0	;
+}
+.laptop{
+    margin-top: 100px;
+}
+.container h3{
+    padding-bottom: 30px;
+}
+.card h5{
+    padding: 10px 0px;
+}
