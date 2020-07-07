@@ -4,7 +4,7 @@
 .slider p {
     color: gray;
 }
-.container{
+.conainer{
     width: 80%;
 }
 button{
@@ -48,3 +48,48 @@ width: 60%;
 .card h5{
     padding: 10px 0px;
 }
+
+
+
+.decoration{
+    margin-top: 100px;
+}  
+   
+.shadow{
+   padding: 50px;
+    border-radius: 4px 20px 4px 20px;
+
+    box-shadow: 2px 2px  100px 	#DCDCDC;
+ 
+
+}
+.shadow-reverse{
+    padding: 50px;
+    border-radius: 20px 4px 20px 4px;
+
+    box-shadow: 2px 2px  100px 	#DCDCDC;
+    margin-bottom: 40px;
+}
+.shadow img{
+  margin-bottom: 20px;
+}
+#hursh-reality{
+    margin-bottom: 0px;
+}
+
+.cat-parent{
+   
+   width: 100px;
+   margin: 0 auto;
+   margin-bottom: 80px;
+   
+}
+.orange-line{
+    height: 8px;
+    background-color: orange;
+    border-radius: 10px;
+   margin: 0 auto;
+    width: 100%;
+    
+}
+
