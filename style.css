@@ -84,12 +84,18 @@ width: 60%;
    margin-bottom: 80px;
    
 }
+.cat-parent h2{
+    text-align: center;
+    
+}
 .orange-line{
     height: 8px;
     background-color: orange;
     border-radius: 10px;
    margin: 0 auto;
     width: 100%;
+    right: -25px;
+    position: relative;
     
 }
 
